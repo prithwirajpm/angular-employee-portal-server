@@ -1,0 +1,7 @@
+{
+    "users":[
+        {
+            "id":1, "name":"Admin Users","email":"admin@demoapp.com","active":"1","password":"demoapp123"
+        }
+    ]
+}
